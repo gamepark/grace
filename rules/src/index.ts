@@ -1,3 +1,3 @@
-export { GameTemplateRules } from './GameTemplateRules'
-export { GameTemplateOptionsSpec } from './GameTemplateOptions'
-export { GameTemplateSetup } from './GameTemplateSetup'
+export { GraceRules } from './GraceRules'
+export { GraceOptionsSpec } from './GraceOptions'
+export { GraceSetup } from './GraceSetup'
